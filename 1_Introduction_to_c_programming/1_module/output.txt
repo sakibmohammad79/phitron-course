@@ -1,0 +1,4 @@
+int value = 10
+float value = 12.234000
+char value = b
+10 12.234000 b

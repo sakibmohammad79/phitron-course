@@ -1,0 +1,1 @@
+ // Increase number of stars by 2 in each row

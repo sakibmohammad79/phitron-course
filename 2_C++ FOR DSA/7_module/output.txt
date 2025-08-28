@@ -1,0 +1,6 @@
+sakib 1 86 
+sami 3 86 
+akib 4 86 
+ifat 5 46 
+takib 6 46 
+sohan 2 36 

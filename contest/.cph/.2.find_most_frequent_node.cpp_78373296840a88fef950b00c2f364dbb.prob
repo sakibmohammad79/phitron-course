@@ -1,0 +1,1 @@
+{"name":"Local: 2","url":"e:\\Phitron\\contest\\2.find_most_frequent_node.cpp","tests":[{"id":1755270970099,"input":"5 3 8 2 2 7 2 -1 -1 -1 -1 -1 -1 -1 -1","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\contest\\2.find_most_frequent_node.cpp","group":"local","local":true}

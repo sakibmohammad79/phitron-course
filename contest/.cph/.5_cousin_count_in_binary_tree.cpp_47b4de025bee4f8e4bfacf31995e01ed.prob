@@ -1,0 +1,1 @@
+{"name":"Local: 5_cousin_count_in_binary_tree","url":"e:\\Phitron\\contest\\5_cousin_count_in_binary_tree.cpp","tests":[{"id":1755277814396,"input":"1 2 3 -1 -1 4 5 -1 -1 -1 -1","output":"0 0 0 0 0 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Phitron\\contest\\5_cousin_count_in_binary_tree.cpp","group":"local","local":true}

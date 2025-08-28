@@ -1,0 +1,3 @@
+Pow Result => 262144
+Sqrt Result => 8
+Absolute Result => 64
